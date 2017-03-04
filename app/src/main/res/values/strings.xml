@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tabs</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="company_name">Nombre</string>
+    <string name="company_description">Descripcion</string>
+    <string name="company_datePicker">Válido hasta</string>
+
+    <!--Subcategorias-->
+    <string-array name="catRumba">
+        <item>Sin subcategoría</item>
+    </string-array>
+    <string-array name="catEventos">
+        <item>Sociales</item>
+        <item>Culturales</item>
+    </string-array>
+    <string-array name="catEmpresarial">
+        <item>Sin subcategoría</item>
+    </string-array>
+</resources>
